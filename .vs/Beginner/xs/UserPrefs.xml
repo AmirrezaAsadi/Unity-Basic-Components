@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{619B4486-6007-F043-A5D6-07D719D43F1D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestingMouse.cs">
+    <Files>
+      <File FileName="Assets/Behavior.cs" Line="15" Column="6" />
+      <File FileName="Assets/Coffee.cs" Line="42" Column="10" />
+      <File FileName="Assets/whileLoop.cs" Line="21" Column="1" />
+      <File FileName="Assets/doWhileLoop.cs" Line="8" Column="10" />
+      <File FileName="Assets/forLoop.cs" Line="16" Column="42" />
+      <File FileName="Assets/forEachLoop.cs" Line="17" Column="10" />
+      <File FileName="Assets/transformFunction.cs" Line="36" Column="15" />
+      <File FileName="Assets/LookAt.cs" Line="18" Column="34" />
+      <File FileName="Assets/GetAxisTest.cs" Line="7" Column="24" />
+      <File FileName="Assets/TestingMouse.cs" Line="18" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Beginner" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad85f247-b9d7-4d86-81d8-a628ef0f977f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
